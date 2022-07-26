@@ -1,0 +1,7 @@
+<h3>Welcome to our Contact Page</h3>
+
+<p>In case of any query contact :-
+    *********65
+    *********54
+    practice@gmail.com
+</p>
