@@ -1,0 +1,14 @@
+using WebApplication2.Models;
+namespace WebApplication2.Repository
+{
+    public interface IEmployee
+    {
+        public List<Models.Employee> GetAllDetails();
+        public Models.Employee GetDetailsByID(int id);
+        public void AddEmp(Models.Employee obj);
+        public void EditEmp(Models.Employee e1);
+        public void DeleteEmp(int id);
+        public void UpdateEmp(Models.Employee obj);
+
+    }
+}
